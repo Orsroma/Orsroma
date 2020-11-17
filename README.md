@@ -26,3 +26,4 @@ const thai = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<iframe src="https://giphy.com/embed/pcKoCj9OlpdbMnwOc7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-cute-latifundija-pcKoCj9OlpdbMnwOc7">via GIPHY</a></p>
