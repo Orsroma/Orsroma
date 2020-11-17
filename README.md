@@ -107,3 +107,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/they/them?flag=gay?gradient=bourbon" width="256" height="64" alt="My pronouns are they/them">
+</a>
