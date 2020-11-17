@@ -11,11 +11,17 @@
 
 ```javascript
 const ORS = {
-  
+  Eng:
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
+ RU:
+ Инструменты:[Devtools= могу смотреть интерент трафик, проверка консоли на ошибки,эмитация мобильных устройстрв 
+SoapUl-При помощи WSDL Создавал видоимзенял параметры пользователей (проверял функционал создания ползователя, и писал тесткейсы на основании ответов)
+Так же делал Rest запросы 
+Postman= могу посылать запросы на API "CRUD", Писать простые тесты на ответные статусы от Http
+Sql= Работал с субд= Mysql, Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+ techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
