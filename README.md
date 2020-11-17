@@ -20,7 +20,6 @@ const thai = {
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+ [linkedin]: https://linkedin.com/in/roman-omelaenko-b5aba81ba
 ```
 
