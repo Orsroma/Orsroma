@@ -2,10 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/pcKoCj9OlpdbMnwOc7/giphy.gif" width="230">
 <p><em>Quality assurance junior </br>looking for a job <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p> <a href="https://linkedin.com/in/https://www.linkedin.com/in/roman-omelaenko-b5aba81ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/roman-omelaenko-b5aba81ba/" height="30" width="40" /></a>
-How to reach me: mailto:Orsroma@gmail.com
 
-
-
+How to reach me: Orsroma@gmail.com
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -28,4 +26,3 @@ Sql= Работал с субд= Mysql, Основы SQL (Create, Delete, Drop, 
                       },
  
 ```
-
