@@ -15,6 +15,7 @@ const ORS = {
   [Postman = can send requests to API "CRUD", Write simple tests for response statuses from Http]
   [Sql = Worked with RDBMS = Mysql; SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)]
   architecture: ["microservices", "event-driven", "design system pattern"],
+  
 RU:
  Инструменты:[Devtools= могу смотреть интерент трафик, проверка консоли на ошибки,эмитация мобильных устройстрв]
 [SoapUl-При помощи WSDL Создавал видоимзенял параметры пользователей (проверял функционал создания ползователя, и писал тесткейсы на основании ответов)
@@ -22,11 +23,7 @@ RU:
 [Postman= могу посылать запросы на API "CRUD", Писать простые тесты на ответные статусы от Http]
 [Sql= Работал с субд= Mysql, Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)]
 
- techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+}
  
 ```
 <details>
