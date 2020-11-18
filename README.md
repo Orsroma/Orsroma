@@ -14,7 +14,6 @@ const ORS = {
   [SoapUl = Using WSDL Created, modified user parameters (checked the functionality of creating a user, and wrote test cases based on the response)I also did Rest requests]
   [Postman = can send requests to API "CRUD", Write simple tests for response statuses from Http]
   [Sql = Worked with RDBMS = Mysql; SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)]
-  architecture: ["microservices", "event-driven", "design system pattern"],
   
 RU:
  Инструменты:[Devtools= Могу смотреть интернет трафик, проверка консоли на ошибки, эмитация мобильных устройств]
@@ -28,5 +27,5 @@ RU:
 ```
 <details>
 <summary>:zap:пасхалка</summary>
-   
+   :)
    </details>
